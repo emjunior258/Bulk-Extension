@@ -6,7 +6,7 @@ hiList.extend(function(extension){
         singleton:false,
         build: function(){
 
-            extension.$startup = function(html){
+            extension.$startup = function(){
 
 
 
