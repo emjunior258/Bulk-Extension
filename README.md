@@ -3,7 +3,7 @@ Bulk data manipulation extension for Hi-List component.
 This component adds a checkbox to all
 
 ## Download it
-Just click here.
+Just click [here](https://talk-code.github.io/releases/get/bulk-extension/bulk.js).
 
 
 ## Using it
