@@ -35,7 +35,7 @@ Just click here.
 
 #### Explaining the attributes
 ##### bulk-placeholder
-**This a mandatory attribute. It defines a jQuery selector to be used on every instance of the repeated element to find the element where
+**This a mandatory attribute**. It defines a jQuery selector to be used on every instance of the repeated element to find the element where
 the checkbox should be placed.
 
 ##### bulk-key
