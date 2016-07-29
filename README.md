@@ -62,6 +62,7 @@ easily.
 #### Getting the checked items
 ```javascript
 
+    //This will return an array of ids
     $scope.myList.getAllChecked();
 
 
@@ -70,6 +71,7 @@ easily.
 #### Clearing checked items
 ```javascript
 
+    //Unchecks all checked rows, not only the visible ones
     $scope.myList.clearChecked();
 
 ```
