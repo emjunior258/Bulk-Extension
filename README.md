@@ -55,7 +55,7 @@ easily.
 #### Unchecking all
 ```javascript
 
-    $scope.myList.checkAll();
+    $scope.myList.uncheckAll();
 
 ```
 
