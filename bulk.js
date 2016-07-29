@@ -4,10 +4,8 @@ hiList.extend(function(extension){
 
         name:"bulk",
         singleton:false,
-        //inject : ['$compile'],
         build: function(){
 
-            //Override the instance methods here
             extension.$startup = function(html){
 
 
